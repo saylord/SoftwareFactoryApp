@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LoginRegister</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="user_name">First Name</string>
+    <string name="user_surname">Second Name</string>
+    <string name="email">Email</string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+    <string name="signuphere">Create a new account? <u>SignUp</u></string>
+    <string name="option_4">option 4</string>
+    <string name="_1_10">1/16</string>
+    <string name="question">Question</string>
+    <string name="_10">30</string>
+    <string name="option_1">option 1</string>
+    <string name="option_2">option 2</string>
+    <string name="option_3">option 3</string>
+    <string name="testdescription">Get to know yourself a little deeper by taking our tests</string>
+    <string name="recdescription">Get motivated for the whole day</string>
+    <string name="articledec">Stay up to date with events from the world of psychology</string>
+    <string name="bookdec">Visit our library and get acquainted with the works of specialists</string>
+    <string name="description">This site offers you various types of sources, such as: news about psychology, books,
+        terms of psychological words, various life hacks for the soul, as well as a list of psychologists who can help
+        you
+    </string>
+    <string name ="text">                   Instruction <br/>
+
+        You are offered a questionnaire.<br/>
+
+        The questionnaire consists of 16 statements (questions), each of which has 3 continuations (answers).<br/>
+
+        We emphasize that all the answers are equivalent, there are no correct or incorrect ones among them.<br/>
+
+        Your task:<br/>
+        • read each of the statements together with its two possible continuations;<br/>
+        • choose the continuation that is typical for you in most life situations.<br/>
+
+        Answer frankly, without thinking about the answers for a long time.<br/>
+    </string>
+</resources>
